@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SLMP_fcn_extended/1.0.0": {
+        "runtime": {
+          "SLMP_fcn_extended.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SLMP_fcn_extended/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

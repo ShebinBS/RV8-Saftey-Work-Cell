@@ -1,0 +1,7 @@
+C:\!DaneBG\Koordynator\Baza wiedzy\SLMP\SLMP_fcn_extended\SLMP_fcn_extended\bin\Debug\SLMP_fcn_extended.exe.config
+C:\!DaneBG\Koordynator\Baza wiedzy\SLMP\SLMP_fcn_extended\SLMP_fcn_extended\bin\Debug\SLMP_fcn_extended.exe
+C:\!DaneBG\Koordynator\Baza wiedzy\SLMP\SLMP_fcn_extended\SLMP_fcn_extended\bin\Debug\SLMP_fcn_extended.pdb
+C:\!DaneBG\Koordynator\Baza wiedzy\SLMP\SLMP_fcn_extended\SLMP_fcn_extended\obj\Debug\SLMP_fcn_extended.exe
+C:\!DaneBG\Koordynator\Baza wiedzy\SLMP\SLMP_fcn_extended\SLMP_fcn_extended\obj\Debug\SLMP_fcn_extended.pdb
+C:\Users\SeniorDesign\Downloads\SLMP_fcn_extended\SLMP_fcn_extended\SLMP_fcn_extended\obj\Debug\SLMP_fcn_extended.exe
+C:\Users\SeniorDesign\Downloads\SLMP_fcn_extended\SLMP_fcn_extended\SLMP_fcn_extended\obj\Debug\SLMP_fcn_extended.pdb
